@@ -1,0 +1,11 @@
+{
+  "name": "books",
+  "dependencies": {
+			"express": "*",
+        		"body-parser": "*",
+			"mongoose": "*",
+			"jwt-simple": "*",
+			"bcrypt": "*"	 
+		  }
+
+}
